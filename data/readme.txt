@@ -1,0 +1,1 @@
+This is a java APP just for fun
